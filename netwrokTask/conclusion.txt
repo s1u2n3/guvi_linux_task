@@ -1,0 +1,14 @@
+Command used to check open ports:
+netstat -tulnp
+
+Observation:
+No output was returned, which indicates that no service is listening on port 9000.
+
+Connectivity test:
+telnet guvi.in 9000
+
+Result:
+The command shows "Trying..." and does not establish a connection.
+
+Conclusion:
+Port 9000 is not open or is blocked, therefore the application running on guvi.com:9000 cannot be accessed.
