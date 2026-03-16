@@ -1,0 +1,11 @@
+Created EC2 instance using Windows Server AMI 2025
+
+Allowed RDP port 
+
+Connected using Remote Desktop
+
+Opened CMD
+
+Ran systeminfo command
+
+uploaded the screenshots to repo
