@@ -1,1 +1,6 @@
 
+ Task 1: S3 + CloudWatch
+- Created private S3 bucket
+- Uploaded files
+- Enabled CloudTrail and CloudWatch logs
+- Verified PutObject logs
