@@ -1,0 +1,6 @@
+ Task 2: EC2 + Load Balancer
+- Launched 2 EC2 instances
+- Installed Apache web server
+- Configured Target Group
+- Created Application Load Balancer
+- Verified traffic distribution
