@@ -1,0 +1,6 @@
+docker basic commands task 
+
+launched ec2 instance and connected thorugh ssh ,
+pulled ngnix docker images ,
+run contaner and see running output ,
+comands on volumes and network
