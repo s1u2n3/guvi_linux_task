@@ -1,0 +1,35 @@
+# Kubernetes Namespace Task
+
+## Objective
+
+Setup Minikube locally and create a Kubernetes Namespace.
+
+## Requirements
+
+- Docker Desktop
+- WSL2
+- kubectl
+- Minikube
+
+## Steps
+
+1. Start Minikube
+2. Verify Cluster
+3. Create Namespace
+4. Verify Namespace
+5. Describe Namespace
+6. Delete Namespace
+
+## Commands
+
+minikube start --driver=docker
+
+kubectl get nodes
+
+kubectl apply -f namespace.yaml
+
+kubectl get namespaces
+
+kubectl describe namespace demo-namespace
+
+kubectl delete namespace demo-namespace
