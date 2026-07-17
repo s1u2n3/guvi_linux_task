@@ -1,0 +1,8 @@
+- Installed Docker
+- Deployed Jenkins on EC2 using Docker
+- Created admin user
+- Created developer and tester users
+- Created HelloProject
+- Created DotNetProject
+- Successfully executed builds
+- attached screenshots for refernece
