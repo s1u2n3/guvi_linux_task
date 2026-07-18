@@ -1,0 +1,38 @@
+# Jenkins Task 2
+
+## Objective
+
+Automatically trigger a Jenkins build whenever code is pushed to GitHub and send the build notification via email.
+
+## Tech Stack
+
+- AWS EC2
+- Docker
+- Jenkins
+- GitHub
+
+## Steps Performed
+
+1. Installed Jenkins on AWS EC2 using Docker.
+2. Created a GitHub repository.
+3. Added a shell script (build.sh).
+4. Connected Jenkins with the GitHub repository.
+5. Configured GitHub Webhook.
+6. Enabled automatic build trigger on push.
+7. Configured Gmail SMTP.
+8. Configured Email Extension Plugin.
+9. Verified successful build and email notification.
+
+## Repository Used for Build
+
+https://github.com/s1u2n3/jenkins_task_2
+
+## Result
+
+✔ Automatic build triggered after every commit.
+
+✔ Email notification sent successfully.
+
+## Screenshots
+
+added screenshots for reference
